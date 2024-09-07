@@ -40,3 +40,5 @@ curso_docker-# \list
               |            |          |                 |            |            |            |           | docker_usr=CTc/docker_usr
 (4 rows)
 ```
+
+**Obs: Lembrando que os desenvolvedores não especificaram versão do banco, portanto está sendo usado a tag latest.**
